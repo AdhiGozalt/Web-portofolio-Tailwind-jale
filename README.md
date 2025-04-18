@@ -8,7 +8,7 @@ Berikut tampilan dari halaman portfolio ini:
 
 | Preview 1 | Preview 2 |
 |-----------|-----------|
-| ![Preview 1]([screenshots/preview1.png](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/aboutme.png)) | ![Preview 2]([screenshots/preview2.png](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/recent.png)) |
+| ![Preview 1](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/aboutme.png?raw=true)) | ![Preview 2]([screenshots/preview2.png](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/recent.png)) |
 
 | Preview 3 | Preview 4 |
 |-----------|-----------|
