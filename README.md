@@ -8,11 +8,11 @@ Berikut tampilan dari halaman portfolio ini:
 
 | Preview 1 | Preview 2 |
 |-----------|-----------|
-| ![Preview 1](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/aboutme.png?raw=true)) | ![Preview 2]([screenshots/preview2.png](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/recent.png)) |
+| ![Preview 1](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/aboutme.png?raw=true) | ![Preview 2](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/contactme.png?raw=true) |
 
-| Preview 3 | Preview 4 |
-|-----------|-----------|
-| ![Preview 3]([screenshots/preview3.png](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/contactme.png)) | ![Preview 4](screenshots/preview4.png) |
+| Preview 3 |
+|-----------|
+| ![Preview 3](https://github.com/AdhiGozalt/Web-portofolio-Tailwind-jale/blob/main/recent.png?raw=true) |
 
 > 📁 Simpan gambar di folder `screenshots/` dalam repositori ini.
 
